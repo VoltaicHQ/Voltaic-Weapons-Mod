@@ -121,8 +121,8 @@ WeaponData
 		"ammo_min_to_fire"								"1"
 
 
-		"damage_near_value"   							"350"
-		"damage_far_value"								"350"
+		"damage_near_value"   							"150"
+		"damage_far_value"								"150"
 		"damage_near_value_titanarmor"					"430"
 		"damage_far_value_titanarmor" 					"430"
 		"damage_rodeo" 									"900"
